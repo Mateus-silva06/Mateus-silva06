@@ -27,10 +27,10 @@
 public class MateusSilva {
     String curso = "Sistemas de Informação — ESAMC";
     String foco = "Back-end";
-    String linguagemFavorita = "Java";
+    String linguagemFavorita = "C#";
     String objetivo = "Evoluir na programação, um projeto por vez";
 
     public void apresentar() {
-        System.out.println("Aprendendo, praticando e evoluindo.");
+        Console.WriteLine("Aprendendo, praticando e evoluindo.");
     }
 }
